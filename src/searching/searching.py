@@ -1,7 +1,6 @@
 # TO-DO: Implement a recursive implementation of binary search
 def binary_search(arr, target, start, end):
     # Your code here
-    # A = arr | target = x | start = left | end = right
     # base condition
     if end >= start:
 
